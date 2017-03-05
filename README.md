@@ -2,6 +2,9 @@
 
 A basic workshop package that converts Markdown to PDF using CoderDojo Rotterdam (SF) theming.
 
+## Prerequisite
+To run this converter we'll be needing [Nodejs](https://nodejs.org/) v4.x or higher.
+
 ## Install
 - Create a new folder that'll hold your manual
 - `cd` into your folder and run `npm init -y` to initialize a new node project
