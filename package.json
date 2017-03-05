@@ -1,0 +1,16 @@
+{
+  "name": "coderdojorotterdam-workshop-core",
+  "version": "1.0.0",
+  "description": "A basic workshop package that converts Markdown to PDF using CoderDojo Rotterdam (SF) theming",
+  "main": "index.js",
+  "bin": {
+    "core": "./index.js"
+  },
+  "author": "Tiemen Waterreus",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^9.9.0",
+    "remarkable-classy": "0.0.1",
+    "markdown-pdf": "^7.0.0"
+  }
+}

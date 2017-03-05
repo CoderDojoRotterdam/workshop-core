@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+
+html, body {
+  font-family: 'Roboto Slab', serif;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px
+}
+
+/* First page have different H1 and H2 styles */
+h1.first-page {
+  font-size: 3em;
+  text-align: center;
+}
+
+h2.first-page {
+  font-size: 1.8em;
+  color: #888888;
+  text-align: center;
+}
+
+/* Hyperlinks have a CoderDojo green styling */
+.green {
+  color: #5b8737;
+}
+
+/* Use the .pagebreak to force a new page */
+.pagebreak {
+  page-break-after: always;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+/* Info blocks have a blue-ish color */
+.info {
+  background-color: #d6eeff;
+  border: 1px solid #86A9C2;
+  padding: 10px;
+}
+
+pre {
+  background-color: #FDF7E3;
+  border: 1px solid #f6db83;
+  padding: 10px;
+  font-size: 10px;
+}
+
+/* For bold text we're using Georgia since our Google font's bold is broken in PhantomJS */
+.bold {
+  font-family: Georgia, serif;
+  font-weight: bold;
+}
+
+/* For printing medium and small images. Often used with center */
+.medium-image { 
+  width: 70%;
+}
+
+.small-image {
+  width: 40%
+}
+
+.center {
+  text-align: center;
+}
