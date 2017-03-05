@@ -31,7 +31,7 @@ Run `npm start` to start the conversion.
 
 ## Examples
 To get a general idea on how to use this, have a look at some examples:
-- Installing Love2D, Lua & Atom [TBA]
+- [Installing Love2D, Lua & Atom](https://github.com/CoderDojoRotterdam/installing-love2d)
 - Building Pong using Love2D and Lua [TBA]
 
 ## Components
