@@ -32,7 +32,7 @@ Run `npm start` to start the conversion.
 ## Examples
 To get a general idea on how to use this, have a look at some examples:
 - [Installing Love2D, Lua & Atom](https://github.com/CoderDojoRotterdam/installing-love2d)
-- Building Pong using Love2D and Lua [TBA]
+- [Building Pong using Love2D and Lua](https://github.com/CoderDojoRotterdam/love2d-pong)
 
 ## Components
 All markdown tags are supported as well as custom styling using HTML / CSS. For available CSS classes have a look in our [CSS file](main.css).
